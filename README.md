@@ -1,6 +1,6 @@
 ## Learn C by practice
 
-Welcome to this repository, where you can find a structured way to learn C by practice. The exercices are simple, but not simplified. The goal is not to hide the complexity, and offer exercices with added value. Exercices are sorted by difficulty.
+Welcome to this repository, where you can find a structured way to learn C by practice. The exercices are simple, but not simplified. The goal is not to hide the complexity and to offer exercices with added value. Exercices are sorted by difficulty.
 
 # Installation
 
@@ -8,7 +8,7 @@ Go to [MYSYS2](https://www.msys2.org/#installation) and follow the steps (window
 
 # Pre requisites
 
-You should have a basic understanding of the language syntax, including some element of theory (pointer, memory allocation).
+You should have a basic understanding of the language syntax, including some element of theory (pointers, memory allocation, ...).
 
 A quick approach to get a good grasp of the fundamentals:
 
@@ -23,4 +23,4 @@ Right click on the `instruction.md` and click on `Open preview` and view the ins
 
 # Contributions
 
-Contributions are welcome. Please open a PR and improve the learning journey.
+Contributions are welcome. Please open a PR and improve the learning journey for everybody.

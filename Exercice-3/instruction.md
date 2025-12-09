@@ -11,18 +11,18 @@ Write a C program that asks the user for their name, then prints each letter of 
 ## 💡 Tips
 
 <details>
-<summary>Tip 1: Storing the name</summary>
+<summary>Tip 1</summary>
 Use a character array to store the name.
 </details>
 <details>
-<summary>Tip 2: String termination</summary>
+<summary>Tip 2</summary>
 Remember that strings in C end with a <code>\0</code> character.
 </details>
 <details>
-<summary>Tip 3: Looping and formatting</summary>
+<summary>Tip 3</summary>
 Use a loop to print each character, and add a dash only between letters (not after the last one).
 </details>
 <details>
-<summary>Tip 4: Edge cases</summary>
+<summary>Tip 4</summary>
 Test with short and long names to check your formatting.
 </details>

@@ -1,4 +1,2 @@
-- bitwise operators
-- exercice qui calcule quand est ce que l'utilisateur aura 100 cent ans
-- exercice pour tester la connaissance en C ?
+- les éléments usuels de programmation, push, pop comme en js ?
 - exercice pour lire les metadata d'un PDF ?

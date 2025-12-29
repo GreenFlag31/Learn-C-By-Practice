@@ -1,6 +1,6 @@
 ## Learn C by practice
 
-Welcome to this repository, where you can find a structured way to learn C by practice. The exercices are simple, but not simplified. The goal is not to hide the complexity and to offer exercices with added value. Exercices are sorted by difficulty.
+Welcome to this repository, where you can find a structured way to learn C by practice. The exercices are simple, but not simplified. The goal is not to hide the complexity and to offer exercices with added value.
 
 - 1: variable declaration, scanf, printf
 - 2: printf and scanf, iteration
@@ -9,6 +9,7 @@ Welcome to this repository, where you can find a structured way to learn C by pr
 - 5 & 6: Pointer and Pointer arithmetic
 - 7: Structure
 - 8 & 9: Bitwise operators
+- ...
 
 # Installation
 
@@ -31,4 +32,4 @@ Right click on the `instruction.md` and click on `Open preview` and view the ins
 
 # Contributions
 
-Contributions are welcome. Please open a PR and improve the learning journey for everybody.
+Contributions are welcome. Please open a PR and improve the learning journey.
